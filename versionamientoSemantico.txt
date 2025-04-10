@@ -1,0 +1,23 @@
+1.0.0
+
+1: version mayor, nuevas funcionalidades
+.
+0: version menor, nuevas funcionalidades
+.
+0: version de parche, parche o hotfix, no es nueva funcionalidad
+
+--
+
+1.0.0: version inicial productiva
+
+1.0.1: fix del problema del reporte de contabilidad
+
+1.0.2:  fix del ingreso de contraseña
+        fix en el largo del input del usuario
+
+1.1.0:  feature del nuevo modulo de reportes
+        fix de experiencia de usuario
+        fix de token de autenticacion
+
+1.1.1: fix de problema de token
+
